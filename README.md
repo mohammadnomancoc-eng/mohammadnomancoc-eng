@@ -1,13 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/main/banner.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/mohammadnomancoc/mohammadnomancoc/main/banner.svg" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[YOUR_LINKEDIN_HANDLE]-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL])
-[![Portfolio](https://img.shields.io/badge/Portfolio-[YOUR_PORTFOLIO_URL]-0F6E56?style=for-the-badge&logo=netlify&logoColor=white)]([YOUR_PORTFOLIO_URL])
-[![Resume](https://img.shields.io/badge/Resume-View%20Now-C2410C?style=for-the-badge&logo=googledrive&logoColor=white)]([YOUR_RESUME_LINK])
-[![Email](https://img.shields.io/badge/[YOUR_EMAIL]-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad-noman-23b0a4324-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-noman-23b0a4324/)
+[![Resume](https://img.shields.io/badge/Resume-View%20Now-C2410C?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19LEAzA_FCx5Tz7k8k0Y9sFF-gZ_FG-Ir?usp=sharing)
+[![Email](https://img.shields.io/badge/mohammadnomancoc@gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadnomancoc@gmail.com)
 
 <br/>
 
@@ -146,14 +145,14 @@ Real-time lost and found platform built for campus use. Led a team as project le
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadnomancoc/mohammadnomancoc/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadnomancoc/mohammadnomancoc/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mohammadnomancoc/mohammadnomancoc/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=react-dark&bg_color=0d1117&color=00c6ff&line=7c6af7&point=ffb547&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadnomancoc&theme=react-dark&bg_color=0d1117&color=00c6ff&line=7c6af7&point=ffb547&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -167,13 +166,12 @@ If you need someone who ships real software and takes ownership, I'd love to con
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/[YOUR_EMAIL]-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[YOUR_LINKEDIN_HANDLE]-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL])
-[![Portfolio](https://img.shields.io/badge/Portfolio-[YOUR_PORTFOLIO_URL]-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]([YOUR_PORTFOLIO_URL])
-[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-FF6C37?style=for-the-badge&logo=googledrive&logoColor=white)]([YOUR_RESUME_LINK])
+[![Email](https://img.shields.io/badge/mohammadnomancoc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadnomancoc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad-noman-23b0a4324-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-noman-23b0a4324/)
+[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-FF6C37?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19LEAzA_FCx5Tz7k8k0Y9sFF-gZ_FG-Ir?usp=sharing)
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=00c6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadnomancoc&color=00c6ff&style=flat-square&label=Profile+Views)
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/main/footer.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/mohammadnomancoc/mohammadnomancoc/main/footer.svg" />
