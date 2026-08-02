@@ -1,0 +1,83 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="iceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050B16"/>
+      <stop offset="55%" stop-color="#0B1B33"/>
+      <stop offset="100%" stop-color="#0E4C6B"/>
+    </linearGradient>
+    <linearGradient id="fireGrad" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1A0805"/>
+      <stop offset="55%" stop-color="#5C1A0B"/>
+      <stop offset="100%" stop-color="#C2410C"/>
+    </linearGradient>
+    <radialGradient id="clash" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F8FAFC" stop-opacity="0.35"/>
+      <stop offset="35%" stop-color="#7DD3FC" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#7DD3FC" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="boltStroke" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#BAE6FD"/>
+      <stop offset="50%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#FDBA74"/>
+    </linearGradient>
+    <pattern id="circuit" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M0 23 H18 M28 23 H46 M23 0 V18 M23 28 V46" stroke="#38BDF8" stroke-width="1" opacity="0.16"/>
+      <circle cx="23" cy="23" r="2.2" fill="#38BDF8" opacity="0.22"/>
+    </pattern>
+    <pattern id="embers" width="52" height="52" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="14" r="1.6" fill="#FDBA74" opacity="0.25"/>
+      <circle cx="38" cy="34" r="1.2" fill="#FCA5A5" opacity="0.2"/>
+      <circle cx="26" cy="44" r="1" fill="#FED7AA" opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0A0F1A"/>
+
+  <!-- ice half -->
+  <polygon points="0,0 600,0 560,45 640,90 570,135 650,180 580,225 630,270 600,300 0,300" fill="url(#iceGrad)"/>
+  <polygon points="0,0 600,0 560,45 640,90 570,135 650,180 580,225 630,270 600,300 0,300" fill="url(#circuit)"/>
+
+  <!-- fire half -->
+  <polygon points="1200,0 600,0 560,45 640,90 570,135 650,180 580,225 630,270 600,300 1200,300" fill="url(#fireGrad)"/>
+  <polygon points="1200,0 600,0 560,45 640,90 570,135 650,180 580,225 630,270 600,300 1200,300" fill="url(#embers)"/>
+
+  <!-- clash glow at center -->
+  <circle cx="605" cy="150" r="180" fill="url(#clash)"/>
+
+  <!-- the jagged split boundary, signature element -->
+  <polyline points="600,0 560,45 640,90 570,135 650,180 580,225 630,270 600,300"
+    fill="none" stroke="url(#boltStroke)" stroke-width="3.5" stroke-linejoin="round" opacity="0.9"/>
+
+  <!-- eyebrow -->
+  <text x="60" y="96" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="17" fill="#7DD3FC" letter-spacing="1">&gt; full_stack_developer</text>
+
+  <!-- name -->
+  <text x="58" y="150" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="52" font-weight="700" fill="#F8FAFC" letter-spacing="0.5">NOMAN KHAN</text>
+
+  <!-- tagline -->
+  <text x="60" y="184" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#94A3B8">Building production systems — not tutorials.</text>
+
+  <!-- status row -->
+  <circle cx="63" cy="213" r="5" fill="#22D3EE"/>
+  <text x="76" y="218" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#BAE6FD">Open to Work</text>
+  <text x="196" y="218" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#64748B">·</text>
+  <text x="210" y="218" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#94A3B8">Nagpur, India — Remote + Relocation</text>
+
+  <!-- right side stack chips -->
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="13.5" font-weight="600">
+    <rect x="700" y="228" width="66" height="28" rx="6" fill="#7C2D12" opacity="0.55" stroke="#FDBA74" stroke-opacity="0.4"/>
+    <text x="714" y="246" fill="#FED7AA">React</text>
+
+    <rect x="776" y="228" width="60" height="28" rx="6" fill="#7C2D12" opacity="0.55" stroke="#FDBA74" stroke-opacity="0.4"/>
+    <text x="790" y="246" fill="#FED7AA">Node</text>
+
+    <rect x="846" y="228" width="90" height="28" rx="6" fill="#7C2D12" opacity="0.55" stroke="#FDBA74" stroke-opacity="0.4"/>
+    <text x="858" y="246" fill="#FED7AA">Firebase</text>
+
+    <rect x="946" y="228" width="102" height="28" rx="6" fill="#7C2D12" opacity="0.55" stroke="#FDBA74" stroke-opacity="0.4"/>
+    <text x="958" y="246" fill="#FED7AA">Supabase</text>
+  </g>
+
+  <text x="700" y="90" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#FDBA74" opacity="0.9">EMS Portal · HeadTrixx · Zootopia Resort</text>
+  <text x="700" y="112" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#FCA5A5" opacity="0.8">7,000+ users served across live production apps</text>
+</svg>
