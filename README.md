@@ -5,6 +5,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--noman--23b0a4324-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-noman-23b0a4324/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammadnoman.vercel.app-7c6af7?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammadnoman.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-View%20Now-C2410C?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19LEAzA_FCx5Tz7k8k0Y9sFF-gZ_FG-Ir?usp=sharing)
 [![Email](https://img.shields.io/badge/mohammadnomancoc@gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadnomancoc@gmail.com)
 
@@ -168,6 +169,7 @@ If you need someone who ships real software and takes ownership, I'd love to con
 
 [![Email](https://img.shields.io/badge/mohammadnomancoc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadnomancoc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--noman--23b0a4324-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-noman-23b0a4324/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammadnoman.vercel.app-7c6af7?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammadnoman.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-FF6C37?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19LEAzA_FCx5Tz7k8k0Y9sFF-gZ_FG-Ir?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammadnomancoc-eng&color=00c6ff&style=flat-square&label=Profile+Views)
